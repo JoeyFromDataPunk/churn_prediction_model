@@ -28,8 +28,7 @@ streamlit run Churn_Model.py
 
 Deployment
 This app is deployed on Streamlit Cloud:
-View the App Here
-(Replace with your actual Streamlit Cloud link)
+**[View the App Here](https://jb-churnmodel.streamlit.app/)**
 
 Input Variables for Prediction
 Features:
