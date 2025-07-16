@@ -1,7 +1,6 @@
 Customer Churn Prediction App
 
-Overview
-This Streamlit web app predicts customer churn using machine learning models based on telecom data.
+Overview: This Streamlit web app predicts customer churn using machine learning models based on telecom data.
 
 Users can explore data visualizations, compare different K-Nearest Neighbors (KNN) models, and make predictions by entering customer-specific information.
 
