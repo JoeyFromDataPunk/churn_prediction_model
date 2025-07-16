@@ -9,7 +9,7 @@ This interactive model is based on a class project I did at University of Maryla
             
 The model was built using **Python** and [Streamlit](https://streamlit.io/).
 
-[View the source code on GitHub](https://github.com/JoeyFromDataPunk/interactive_resume_github/blob/main/interactive_resume/resume_app.py)
+[View the source code on GitHub](https://github.com/JoeyFromDataPunk/churn_prediction_model/blob/main/Churn_Model.py)
 """)
 
 st.divider()
